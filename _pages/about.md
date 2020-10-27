@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-**[ZeroOne AI](https://www.zerooneai)**
+**[ZeroOne AI](https://www.zeroone.ai)**
 
 
 
