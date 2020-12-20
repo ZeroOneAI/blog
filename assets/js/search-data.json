@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Sample",
-            "content": "test . test2 . abc company .",
-            "url": "https://zerooneai.github.io/blog/2020/05/11/sample.html",
-            "relUrl": "/2020/05/11/sample.html",
+            "title": "Sample and Sample",
+            "content": "test . test2 . abc company | dlbc test3 . | .",
+            "url": "https://zerooneai.github.io/blog/markdown/2020/05/11/sample.html",
+            "relUrl": "/markdown/2020/05/11/sample.html",
             "date": " • May 11, 2020"
         }
         
